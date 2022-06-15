@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>모니카 립제이의 캡틴모립</title>
+    <link>https://cmlboarding.github.io/CML/</link>
+    <language>ko</language>
+    <itunes:author>Monika &amp; Lip J</itunes:author>
+    <description>
+      ⛴ 모립호 승선 = 팔로우 &amp; 알림설정 🛎
+
+망망대해에 표류하는 배처럼
+한 치 앞도 보이지 않는 칠흑 같은 날들.
+자신감은 닻보다 더 무겁게 가라앉고
+내 삶은 노답 같다고?
+
+자존감! 자존감! 자존감!
+인생에 정답이 어딨어?
+그냥 내 멋대로 나답게 살자고!
+
+자존감 MAX! 당당한 두 캡틴,
+모니카 &amp;립제이와 함께 떠나는
+'갓생'으로의 인생 항해!
+    </description>
+    <itunes:image
+      href="https://cmlboarding.github.io/CML/img/cover.png"
+    />
+    <itunes:category text="Arts" />
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episode>1</itunes:episode>
+      <title>시작을 위한 최고의 전략</title>
+      <description>
+        🙌🏻(경) 모립호 정.식.출.항 (축)🎉
+
+목 빠지게 기다리던 모캡&amp;립캡의 첫 항해!
+자신만만 포부와 열쩡으로 시작한 캡틴즈,
+결국 분량조절 대실패?!
+(프라이팬:오히려 좋아😎)
+
+저마다의 시작을 준비하는 선원들의 고민에
+진심 가득 조언들이 콸콸콸~🌊
+재치 만점&amp;용기 뿜뿜 플레이리스트까지!
+
+모립호의 알찬 첫 항해,
+📻 지금 바로 시작합니다!
+      </description>
+      <enclosure
+        url="https://cmlboarding.github.io/CML/audio/EP.01.mp3"
+        length="36639042"
+        type="audio/mpeg"
+        />
+      <guid>cml20220126</guid>
+      <pubDate>Wed, 26 Jan 2022 12:00:00 KST</pubDate>
+      <itunes:duration>37:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
