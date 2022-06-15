@@ -3,7 +3,7 @@
   <channel>
     <title>모니카 립제이의 캡틴모립</title>
     <language>ko</language>
-    <itunes:author>Monika &amp; Lip J</itunes:author>
+    <itunes:author>MONIKA MELUCHI &amp; LIPJELINA JOLLY</itunes:author>
     <description>
       ⛴ 모립호 승선 = 팔로우 &amp; 알림설정 🛎
 
@@ -26,8 +26,13 @@
     <itunes:category text="Arts" />
     <itunes:explicit>false</itunes:explicit>
 
+<!-- Episodes -->
+
+<!-- EP.01 -->
+
     <item>
-      <title>EP.01 : 시작을 위한 최고의 전략</title>
+      <itunes:episode>1</itunes:episode>
+      <title>시작을 위한 최고의 전략</title>
       <description>
         🙌🏻(경) 모립호 정.식.출.항 (축)🎉
 
@@ -54,8 +59,11 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+<!-- EP.02 -->
+
     <item>
-      <title>EP.02 : (듣기좋은) 잔소리주의보 발령</title>
+      <itunes:episode>2</itunes:episode>
+      <title>(듣기좋은) 잔소리주의보 발령</title>
       <description>
         🌬갑작스레 모립호에 불어닥친 이 바람은 … 잔소리바람?!🌬
 
@@ -82,10 +90,59 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-    <!-- EP.18 -->
+<!-- EP.17 -->
+
+            <item>
+              <itunes:episode>17</itunes:episode>
+              <title>여기 살 없는 치킨 있나요?</title>
+              <description>
+                🐷생각한 말: 아기돼지 삼형제
+나온 말 : 돼지고기 삼형제 🥓
+
+이젠 보낼게.. 널 놓아줄게.. ★
+순식간에 흑역사 먹구름 생성했던
+선원들의 각양각색 말실수 보따리!🥲
+🌊오늘 항해에서 시원~하게 털어놓고 잊으세요!!
+
+🏆이불킥 어워즈 : 말실수 편🫢
+ PART 1. 알바하다 꼬였상
+PART 2. 단어 하나 차이상
+PART 3. 괜찮아 자연스러웠상
+
+2MC의 TMI썰은 어워즈에서도 멈추지 않는다!
+
+🍗KFC 알바생 순이, 그 때 그 손님을 찾습니다😖
+🎍거짓말 절대 못 하는 익화쌤, 탈룰라 상황 극복법은?!
+
+〰 역대급 대본량 + 끊이지 않는 말실수 썰 〰
+
+가장 큰 웃음과 위로를 선사하여
+대상의 영광을 차지한 최고(?)의 말실수는?
+상상도 못할 대반전의 현장,
+지금 바로 확인하세요! 💝
+
+2022  EBOOL-KICK AWARDS
+
+HOST |  MONIKA MELUCHI &amp; LIPJELINA JOLLY
+
+OFFICIAL SPONSER  |  CAPTAIN MOLIP
+              </description>
+              <enclosure
+                url="https://prowdfrypan.github.io/CML/audio/EP.17.mp3"
+                length="45360571"
+                type="audio/mpeg"
+                />
+              <guid>cml20220518</guid>
+              <pubDate>Wed, 18 May 2022 03:00:00 GMT</pubDate>
+              <itunes:duration>46:16</itunes:duration>
+              <itunes:explicit>false</itunes:explicit>
+            </item>
+
+<!-- EP.18 -->
 
         <item>
-          <title>EP.18 : 아 오늘 점심 뭐 먹지? (W. 먹잘알 최자)</title>
+          <itunes:episode>18</itunes:episode>
+          <title>아 오늘 점심 뭐 먹지? (W. 먹잘알 최자)</title>
           <description>
             🍽 소울 가득한 점(심)메(뉴)추(천) 전문!
 우리가 누구? 최자&amp;모립😎
@@ -140,7 +197,8 @@ K-직장인 최대고민! #오늘점심뭐먹지
 <!-- EP.19 -->
 
     <item>
-      <title>EP.19 : 나의 번아웃 해방일지</title>
+      <itunes:episode>19</itunes:episode>
+      <title>나의 번아웃 해방일지</title>
       <description>
         ‘언니, 나 다시 시작할 힘이 없어..’
 무릎 재활 후에 찾아온 립제이의 번아웃,
@@ -184,7 +242,8 @@ K-직장인 최대고민! #오늘점심뭐먹지
 <!-- EP.21  -->
 
     <item>
-      <title>EP.21 : 내 운명은 내가 정해</title>
+      <itunes:episode>21</itunes:episode>
+      <title>내 운명은 내가 정해</title>
       <description>
         🔎캡틴즈 신년운세 중간점검🔮
 
