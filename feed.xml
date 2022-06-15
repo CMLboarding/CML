@@ -28,7 +28,7 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episode>1</itunes:episode>
-      <title>시작을 위한 최고의 전략</title>
+      <title>EP.01 : 시작을 위한 최고의 전략</title>
       <description>
         🙌🏻(경) 모립호 정.식.출.항 (축)🎉
 
@@ -52,6 +52,34 @@
       <guid>cml20220126</guid>
       <pubDate>Wed, 26 Jan 2022 12:00:00 KST</pubDate>
       <itunes:duration>37:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episode>2</itunes:episode>
+      <title>EP.02 : (듣기좋은) 잔소리주의보 발령</title>
+      <description>
+        🌬갑작스레 모립호에 불어닥친 이 바람은 … 잔소리바람?!🌬
+
+황금연휴의 불청객 같은 명절 잔소리,
+캡틴들은 어떻게 버티나요?
+🧾 K-딸내미 효원&amp;정우의 설날맞이 오지랖 상세내역!
+지금 바로 정산 들어갑니다🤓💸
+#tip. 헬스장 빌런 퇴치법
+
+혼나기도 어렵지만, 혼내기는 더 힘들다😣
+미대입시반만 3년차! 합격률도 좋은 강사 선원의 고민은?
+모캡&amp;립캡의 마음을 울렸던 은사님들의 조언과,
+눈물을 머금고‘잘’혼낼 수 있는 비법!
+#tip. 캡틴도 학생이었어
+      </description>
+      <enclosure
+        url="https://cmlboarding.github.io/CML/audio/EP.02.mp3"
+        length="27975591"
+        type="audio/mpeg"
+        />
+      <guid>cml20220202</guid>
+      <pubDate>Wed, 02 Feb 2022 12:00:00 KST</pubDate>
+      <itunes:duration>28:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
