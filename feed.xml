@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>모니카 립제이의 캡틴모립</title>
-    <link>https://cmlboarding.github.io/CML/</link>
     <language>ko</language>
     <itunes:author>Monika &amp; Lip J</itunes:author>
     <description>
@@ -26,8 +25,8 @@
     />
     <itunes:category text="Arts" />
     <itunes:explicit>false</itunes:explicit>
+
     <item>
-      <itunes:episode>1</itunes:episode>
       <title>EP.01 : 시작을 위한 최고의 전략</title>
       <description>
         🙌🏻(경) 모립호 정.식.출.항 (축)🎉
@@ -50,12 +49,12 @@
         type="audio/mpeg"
         />
       <guid>cml20220126</guid>
-      <pubDate>Wed, 26 Jan 2022 12:00:00 KST</pubDate>
+      <pubDate>Tue, 25 Jan 2022 15:00:00 GMT</pubDate>
       <itunes:duration>37:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
-      <itunes:episode>2</itunes:episode>
       <title>EP.02 : (듣기좋은) 잔소리주의보 발령</title>
       <description>
         🌬갑작스레 모립호에 불어닥친 이 바람은 … 잔소리바람?!🌬
