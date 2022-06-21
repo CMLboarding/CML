@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>모니카 립제이의 캡틴모립</title>
+    <link>https://prowdfrypan.github.io/CML/</link>
     <language>ko</language>
     <itunes:author>MONIKA MELUCHI &amp; LIPJELINA JOLLY</itunes:author>
     <description>
@@ -96,7 +97,7 @@
           <itunes:episode>3</itunes:episode>
           <title>찢긴 멘탈 응급처치법</title>
           <description>
-            포기하면 실패지만, 계속 나가면 경험이다.
+            "포기하면 실패지만, 계속 나가면 경험이다.
 🪨 불쑥 나타난 암초와 🌫자욱한 안개 속에서
 목표를 잃고 휘청이는 선원들이라면?
 프로실패러(?) 캡틴들과 함께하는
@@ -113,7 +114,7 @@
 
 ++ 보너스 트랙 ++
 인생의 패배자가 된 기분을 싹~&nbsp; 날려주는
-캡틴들만의 힐링 플레이스 추천! (in 마포구)
+캡틴들만의 힐링 플레이스 추천! (in 마포구)"            
           </description>
           <enclosure
             url="https://prowdfrypan.github.io/CML/audio/EP.03.mp3"
