@@ -114,7 +114,7 @@
 
 ++ 보너스 트랙 ++
 인생의 패배자가 된 기분을 싹~&nbsp; 날려주는
-캡틴들만의 힐링 플레이스 추천! (in 마포구)"            
+캡틴들만의 힐링 플레이스 추천! (in 마포구)"
           </description>
           <enclosure
             url="https://prowdfrypan.github.io/CML/audio/EP.03.mp3"
@@ -867,6 +867,48 @@ VS
       <itunes:duration>54:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
+    <!-- EP.22  -->
+
+        <item>
+          <itunes:episode>22</itunes:episode>
+          <title>직장에서 살아남기</title>
+          <description>
+            🏙바쁘다 바빠 현대사회의 중심, 회사!
+어느 회사든 이런 사람 꼭 있다?🤔
+
+#발표공포증 #뒷담화팸 #자발적아싸
+
+선원들의 회사생활 고민 총집합!📮
+
+댄서계를 주름 잡고
+월클 무대에서 날아다니는 캡틴즈에게도
+사회생활은 녹록지 않다구...?🥺
+
+해맑은 표정 아래 수천수만가지 고민 중!
+의외의 낯가림 주인공 순이🙈🌸
+&amp; 중간은 없어^^  선 넘기 전문(?)
+솔직 투명 익화❤️‍🔥
+캡틴즈와 함께하는 사회생활 정복기!
+
+🍳실습 코너 🍳
+일로 만난 사이, 캡틴즈 &amp; 제작진!
+녹화 중 일어난 돌발 상황에 대처하라?!
+(Feat. 의좋은 모립호)
+
+사회생활 만렙 찍고 싶은 선원즈🧑🏻‍🎓
+어서어서 승선하세요~!🛎
+          </description>
+          <enclosure
+            url="https://prowdfrypan.github.io/CML/audio/EP.22.mp3"
+            length="58411340"
+            type="audio/mpeg"
+            />
+          <guid>cml20220622</guid>
+          <pubDate>Wed, 22 Jun 2022 03:00:00 GMT</pubDate>
+          <itunes:duration>59:52</itunes:duration>
+          <itunes:explicit>false</itunes:explicit>
+        </item>
 
   </channel>
 </rss>
