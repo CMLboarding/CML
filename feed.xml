@@ -934,5 +934,61 @@ VS
               <itunes:explicit>false</itunes:explicit>
             </item>
 
+            <!-- EP.24  -->
+
+                <item>
+                  <itunes:episode>24</itunes:episode>
+                  <title>당근과 채찍? 지금 내게 필요한 건</title>
+                  <description>
+                    💔캡모 방송 최초 각자 귀가하는 날?ㄷㄷ
+모립호 최고의 잔소리(유발)꾼 배틀,
+🙉지금부터 시~좍!📣
+
+= Player 1 : 할모니카 =
+월클 배틀러 립제이, 사실은 박치?!
+룸메 모닝 알람 국룰 : 본인만 꿀잠😴 (ft. 노캔 헤드폰)
+
+= Player 2 : 립다물어 =
+(열)한 번만 더 참아주면 안 되나요?
+그리고.. 모니카는 정말 완벽주의자일까요? 😃
+
+❤️‍🔥사랑해야 할 수 있는 그런 이야기❤️‍🔥
+모잔잔모 VS 할말하않 콧바람 순이의
+불꽃 튀기(면 안되)는 잔소리 대첩!
+어, 이 불똥이 선원들에게…? ☄️
+
+📚K-고삼의 멈출 수 없는 욕구😫
+공부 시작하기도 전에 진빠지게 만드는
+‘책.상.정.리’ 빌런 퇴치 대작전!😈
+? : 진짜로 고양이가 제 방 어지럽힌 거에요 ㅠㅠㅠㅠ
+
++ 모캡, 수능공부 딱 50일 하고 인서울 성공한 방법(?)
+※ 경고 ※ 함부로 따라하지 마세요
+
+😬어느새 걷잡을 수 없게된 사소한 습관들부터
+역대 최악의 노답 주사까지🤯
+
+⛑좋은 잔소리가 귀에는 쓰디쓴 법❤️‍🩹
+ 모립표 응급 처방전 지금 바로 나갑니다 🚑🚑🚑
+
+🌪캡틴즈의 애정어린 잔소리 폭풍 속으로 ~~
+용감하게 뛰어들 선원들, 컴온컴온!🏄🏻🌊
+
+· Special Track · 우승자 특전🍍
+선원들의 아침을 깨워줄
+캡틴들의 달콤살벌한 모닝콜~😘
+세 가지 버전으로 확인하세요!😋
+                  </description>
+                  <enclosure
+                    url="https://prowdfrypan.github.io/CML/audio/EP.24.mp3"
+                    length="56773378"
+                    type="audio/mpeg"
+                    />
+                  <guid>cml202200760</guid>
+                  <pubDate>Wed, 06 Jul 2022 03:00:00 GMT</pubDate>
+                  <itunes:duration>58:09</itunes:duration>
+                  <itunes:explicit>false</itunes:explicit>
+                </item>
+
   </channel>
 </rss>
