@@ -985,11 +985,61 @@ VS
                     length="56773378"
                     type="audio/mpeg"
                     />
-                  <guid>cml202200760</guid>
+                  <guid>cml20220706</guid>
                   <pubDate>Wed, 06 Jul 2022 03:00:00 GMT</pubDate>
                   <itunes:duration>58:09</itunes:duration>
                   <itunes:explicit>false</itunes:explicit>
                 </item>
 
+                <!-- EP.25  -->
+
+                    <item>
+                      <itunes:episode>25</itunes:episode>
+                      <title>급커브주의! 삶의 모퉁이를 마주쳤을 때 (W. 막내선장 아이키)</title>
+                      <itunes:image href="https://cdn.music-flo.com/image/episode/117/122/00/00/0000122117_62ce28a0_o.jpg"/>
+                      <description>
+                        ❤️‍🔥열쩡 ENFP 그잡채❤️‍🔥 아.이.키 등장이요💃🏻
+플투댄으로 뉴욕 찢고 온 옆동네 선장님!
+입담으로 춤추는 이 기분 마치 like 72분,,!
+꽉 채워 달릴 준비 된 선원들 소리질러~🙌🏻
+
+#독립 생활 만세
+결혼 전, 돌싱 할머님과의 자취 경험이 유일!
+아이키의 독립 첫 걸음마는 플투댄이었다?🗽 
+🇺🇸동생즈의 미국병 격공 타임과 함께
+일상 속 글로벌 마인드 탑재하기😉(hey~🌎)
+
+#이 결혼, 진짜 괜찮을까?
+🔮캡틴즈의 신비한 이상형 사전
+&amp; 결혼식 환상곡💍 🆕 업데이트!
+? : 그 때부터 막 자상함의 에버랜드가 펼쳐지는 거야
+? : 효원아 내 결혼식 준비 다 됐어?
+
+무릎을 탁 치게 만든 창의력대장 아이키의
+시원+명쾌+신박한 솔루션,
+데이트 코스로 키**페…는 꼭 가봐야 한다?😳
+
+-
+
+#인생의 마지막 페이지 앞에서
+☔️언젠가 내가 없는 너의 내일이 온다면,
+정우/혜인/효원이가 각자의 세상에게 남기고 싶은 말.
+(모립호 오늘의 목적지 눈물바다였냐구..🥲)
+
+⤴️ 현생에서 갑자기 마주친 급커브,
+최소 무사히 최대 짜릿하게 지나가는 법🫣
+🏁 인생길 드리프트 전문 컨설턴트 🏁
+모립키와 함께하세요😎🏎💨
+                      </description>
+                      <enclosure
+                        url="https://prowdfrypan.github.io/CML/audio/EP.25.mp3"
+                        length="71064226"
+                        type="audio/mpeg"
+                        />
+                      <guid>cml20220713</guid>
+                      <pubDate>Wed, 13 Jul 2022 03:00:00 GMT</pubDate>
+                      <itunes:duration>01:13:02</itunes:duration>
+                      <itunes:explicit>false</itunes:explicit>
+                    </item>
   </channel>
 </rss>
