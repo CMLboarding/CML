@@ -1041,5 +1041,56 @@ VS
                       <itunes:duration>01:13:02</itunes:duration>
                       <itunes:explicit>false</itunes:explicit>
                     </item>
+
+                    <!-- EP.26  -->
+
+                        <item>
+                          <itunes:episode>26</itunes:episode>
+                          <title>여행을 떠나요🧳</title>
+                          <itunes:image href="https://cdn.music-flo.com/image/episode/394/122/00/00/0000122394_62d7bdab_o.jpg"/>
+                          <description>
+                            모캡을 감동시킨 립캡의 생일축하 FLEX😎
+!! 드.디.어 공개합니다 !!
+무려 ⭐️S-class⭐️ 전자항공권?! 🛫
+
+😵‍💫현생 사느라 여행 욕구 꾹~ 참아온 선원1,
+🤩신나는 여름휴가를 앞두고 설레는 선원2,
+🥳열심히 일한 캡틴즈의 여름 계획을 응원하는 선원3,
+모두 모두 주목!! 🫡
+
+✨오직 선원들에게만 공개하는 G.R.W.C✨
+Get Ready With Captains - 싱가폴 편!
+오늘 캡틴즈와 함께 여행 짐 한 번 야무지게 싸보자고~
+
+#같은_여행_다른_짐가방 (Feat.미션의 연속)
+오늘도 여전히 마이웨이를 자랑하는 캡틴즈👀
+하지만 함께한 세월의 짬바는 결코 무시할 수 없다!
+
+🎒이 구역의 짐싸기((타협))왕은 나야 나🧳
+-&gt; 갑자기 자연주의 여행객 된 모립?🥥
+-&gt; 갑자기 해외 프리스타일 버스킹 하는 모립?💃🏻🕺🏻
+
+다 된 여행에 슬그머니 다가와
+자꾸만 미션지를 끼얹는 제작진..!
+끝날 때까지 끝난 게 아닙니다.. (음흉한 미소)
+
+⛈티격태격 캡틴즈는 쏟아지는 미션 세례를
+무사히 헤쳐나갈 수 있을까?!🌪 
+
+++ 캡틴즈의 최애 여행지 PICK ++
+손민수 할 절호의 찬스👊🏻 어딜 뺏겨~~~
+
+🛎 지금 바로 승선하라구 🛎
+                          </description>
+                          <enclosure
+                            url="https://prowdfrypan.github.io/CML/audio/EP.26.mp3"
+                            length="55258254"
+                            type="audio/mpeg"
+                            />
+                          <guid>cml20220720</guid>
+                          <pubDate>Wed, 20 Jul 2022 03:00:00 GMT</pubDate>
+                          <itunes:duration>56:34</itunes:duration>
+                          <itunes:explicit>false</itunes:explicit>
+                        </item>
   </channel>
 </rss>
