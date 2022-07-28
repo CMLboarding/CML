@@ -1092,5 +1092,56 @@ Get Ready With Captains - 싱가폴 편!
                           <itunes:duration>56:34</itunes:duration>
                           <itunes:explicit>false</itunes:explicit>
                         </item>
+
+                        <!-- EP.27  -->
+
+                            <item>
+                              <itunes:episode>27</itunes:episode>
+                              <title>무더위를 뽀개는 방법</title>
+                              <itunes:image href="https://cdn.music-flo.com/image/episode/453/125/00/00/0000125453_62e09ce5_o.jpg"/>
+                              <description>
+                                ☀️장마 끝나고 찾아온 땡볕 더위!
+캡틴즈는 어떻게 이겨낼까?🧊
+
+🏴‍☠️으스스 모립호에 오신 걸 환영합니다🧟
+등골이 오싹오싹!😖모립호의 2022 피서법 대공개!
+
+※ 오늘 에피소드는 반드시
+엄마아빠친구동생연인동료룸메강쥐고양님..
+누군가와 함께 들으시길 추천합니다 ※
+
+#무더위엔 납량특집이 근-본!
+효원아, 아직도 내가 니카언니로 보이니…?🎃👻
+- 모캡이 들었던 정처없는 발소리의 정체?!
+- 생전 처음 가위 눌렸던 립캡, 효원맘이 기겁한 이유?!
+
+🕸무서운 얘기 죽어도 싫다면서 계속 하는 사람들
+= 캡틴즈… 왜 멈출 수 없는거야😱🕸
+
+#이보다 무서울 순 없다
+갓 어른이 된 나에게,
+귀신보다 무서워진 것은 바로..?
+💦식은땀이 삐질, 두려움에 몸서리치게 만드는
+선원들의 현생 속 찐 공포썰 대방출!
+
+하지만, 이 모든 것을 뛰어넘어벌인
+충격과 공포의 한 마디!  “여러분 그거 아세요..?"
+ 아니 모캡이 또..? 🫣
+(feat. 산Wa.. SAN와… SWㅁㄴ…)
+
+⚠️ 선원들 정신 바짝 차렷! ⚠️
+순식간에 무더위 기강 잡아버릴 오늘의 항해,
+지금 바로 출발합니다🛥🌊
+                              </description>
+                              <enclosure
+                                url="https://prowdfrypan.github.io/CML/audio/EP.27.mp3"
+                                length="38301656"
+                                type="audio/mpeg"
+                                />
+                              <guid>cml20220727</guid>
+                              <pubDate>Wed, 27 Jul 2022 03:00:00 GMT</pubDate>
+                              <itunes:duration>38:55</itunes:duration>
+                              <itunes:explicit>false</itunes:explicit>
+                            </item>
   </channel>
 </rss>
