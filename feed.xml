@@ -1143,5 +1143,50 @@ Get Ready With Captains - 싱가폴 편!
                               <itunes:duration>38:55</itunes:duration>
                               <itunes:explicit>false</itunes:explicit>
                             </item>
+
+                            <!-- EP.28  -->
+
+                                <item>
+                                  <itunes:episode>28</itunes:episode>
+                                  <title>온고지신</title>
+                                  <itunes:image href="https://cdn.music-flo.com/image/episode/412/126/00/00/0000126412_62e9da95_o.jpg"/>
+                                  <description>
+                                    溫(익힐 온) 故(옛 고) 知(알 지) 新(새 신),
+                                    : 옛 것을 익히고 새 것을 안다
+
+                                    캡틴 ‘신’정우와 캡틴 ‘조’효원의
+                                    온고지신 프로젝트, 신조로운 MZ 생활✨
+
+                                    # 착한아이콤플렉스👧🏻☘️
+                                    -“무엇이든 먼저 양보하고 맞춰주는 너,
+                                    이제 지긋지긋해!😡”
+                                    -모캡을 놀라게했던 순이의 솔직함 모먼트?!
+
+                                    🧓🏻겸손해라, 양보해라, 착하게 살아라, 그러나…
+                                    정말로 ‘착한’ 사람이 되고 싶다면?🤔
+
+                                    # 부장님 저희 왜 회식 안 해요..?😃🪩🤹🏻‍♀️
+                                    - ‘취존’, ‘워라밸’을 극도로 중시하는 개인주의 시대!
+                                      회식이 사라졌다? (ft.낀세대)
+                                    - 노는 건 자신있는 캡틴즈가 책임진다!
+                                    🤘🏻M.Z.로.운 회식 컨설팅😎
+
+                                     ⚓️ 캡모와 함께라면
+                                     MZ도 오렌지족도 행복할 수 있어🥹
+                                    🦄 세대차이 대통합 해버린🍊
+                                    시즌 1 마지막 항해, 지금 바로 시작합니다 !
+
+                                    🧑🏻‍🚀 : 클로징 뒤에 쿠키 있어요 🍪
+                                  </description>
+                                  <enclosure
+                                    url="https://prowdfrypan.github.io/CML/audio/EP.28.mp3"
+                                    length="48710028"
+                                    type="audio/mpeg"
+                                    />
+                                  <guid>cml20220803</guid>
+                                  <pubDate>Wed, 03 Aug 2022 03:00:00 GMT</pubDate>
+                                  <itunes:duration>49:45</itunes:duration>
+                                  <itunes:explicit>false</itunes:explicit>
+                                </item>
   </channel>
 </rss>
