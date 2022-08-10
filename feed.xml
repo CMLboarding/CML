@@ -22,7 +22,7 @@
 '갓생'으로의 인생 항해!
     </description>
     <itunes:image
-      href="https://prowdfrypan.github.io/CML/img/cover.png"
+      href="https://cdn.music-flo.com/image/program/041/100/00/00/0000100041_62f35710_o.jpg"
     />
     <itunes:category text="Arts" />
     <itunes:explicit>false</itunes:explicit>
@@ -32,6 +32,7 @@
 <!-- EP.01 -->
 
     <item>
+      <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <title>시작을 위한 최고의 전략</title>
       <description>
@@ -63,6 +64,7 @@
 <!-- EP.02 -->
 
     <item>
+      <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
       <title>(듣기좋은) 잔소리주의보 발령</title>
       <description>
@@ -94,6 +96,7 @@
     <!-- EP.03 -->
 
         <item>
+          <itunes:season>1</itunes:season>
           <itunes:episode>3</itunes:episode>
           <title>찢긴 멘탈 응급처치법</title>
           <description>
@@ -112,6 +115,7 @@
 <!-- EP.04 -->
 
 <item>
+  <itunes:season>1</itunes:season>
   <itunes:episode>4</itunes:episode>
   <title>자존감 해적들과 칼손절하는 법</title>
   <description>
@@ -146,6 +150,7 @@
 <!-- EP.05 -->
 
 <item>
+  <itunes:season>1</itunes:season>
   <itunes:episode>5</itunes:episode>
   <title>부자가 되고 싶어?</title>
   <description>
@@ -189,6 +194,7 @@
 <!-- EP.06 -->
 
 <item>
+  <itunes:season>1</itunes:season>
   <itunes:episode>6</itunes:episode>
   <title>역시 퇴사만이 답인가</title>
   <description>
@@ -226,6 +232,7 @@
 <!-- EP.07 -->
 
 <item>
+  <itunes:season>1</itunes:season>
   <itunes:episode>7</itunes:episode>
   <title>엄마 우리 그만 싸우자</title>
   <description>
@@ -253,6 +260,7 @@
 <!-- EP.08 -->
 
 <item>
+  <itunes:season>1</itunes:season>
   <itunes:episode>8</itunes:episode>
   <title>망한 연애 어워즈💔</title>
   <description>
@@ -299,6 +307,7 @@
 <!-- EP.09 -->
 
 <item>
+  <itunes:season>1</itunes:season>
   <itunes:episode>9</itunes:episode>
   <title>N년차 룸메가 내 옷을 난도질했다?</title>
   <description>
@@ -345,6 +354,7 @@
 <!-- EP.10 -->
 
 <item>
+  <itunes:season>1</itunes:season>
   <itunes:episode>10</itunes:episode>
   <title>꼰대가 될 순 없어 (W. 꿀정언니 허니제이)</title>
   <description>
@@ -396,6 +406,7 @@
     <!-- EP.11 -->
 
         <item>
+          <itunes:season>1</itunes:season>
             <itunes:episode>11</itunes:episode>
             <title>서른과 어른 사이 (W. 프로과몰입러 김진주)</title>
             <description>
@@ -440,6 +451,7 @@
     <!-- EP.12 -->
 
         <item>
+          <itunes:season>1</itunes:season>
             <itunes:episode>12</itunes:episode>
             <title>인도에서 가방 잃어버리기 vs 보라카이에서 박쥐 마주치기</title>
             <description>
@@ -484,6 +496,7 @@ Round 3. 최고의 파트너, 너로 정했다!
 <!-- EP.13 -->
 
     <item>
+      <itunes:season>1</itunes:season>
         <itunes:episode>13</itunes:episode>
         <title>가면무도회 - 진짜 ‘나’는 누구일까</title>
         <description>
@@ -526,6 +539,7 @@ Round 3. 최고의 파트너, 너로 정했다!
     <!-- EP.14 -->
 
                     <item>
+                      <itunes:season>1</itunes:season>
                       <itunes:episode>14</itunes:episode>
                       <title>너의 인★가 재미없는 이유 (W. 요즘애들 땡깡&amp;진절미)</title>
                       <description>
@@ -571,6 +585,7 @@ Part 2. [MOLIP X MZ] 인✩ 원데이 클래스
     <!-- EP.15 -->
 
                     <item>
+                      <itunes:season>1</itunes:season>
                       <itunes:episode>15</itunes:episode>
                       <title>월급 모아 키덜트</title>
                       <description>
@@ -615,6 +630,7 @@ Part 2. [MOLIP X MZ] 인✩ 원데이 클래스
 <!-- EP.16 -->
 
                 <item>
+                  <itunes:season>1</itunes:season>
                   <itunes:episode>16</itunes:episode>
                   <title>진짜 좋아하는 일로 성공하고 싶다면 (W. MZ스타 땡깡&amp;진절미)</title>
                   <description>
@@ -662,6 +678,7 @@ Part 2. [MOLIP X MZ] 인✩ 원데이 클래스
 <!-- EP.17 -->
 
             <item>
+              <itunes:season>1</itunes:season>
               <itunes:episode>17</itunes:episode>
               <title>여기 살 없는 치킨 있나요?</title>
               <description>
@@ -710,6 +727,7 @@ OFFICIAL SPONSER  |  CAPTAIN MOLIP
 <!-- EP.18 -->
 
         <item>
+          <itunes:season>1</itunes:season>
           <itunes:episode>18</itunes:episode>
           <title>아 오늘 점심 뭐 먹지? (W. 먹잘알 최자)</title>
           <description>
@@ -766,6 +784,7 @@ K-직장인 최대고민! #오늘점심뭐먹지
 <!-- EP.19 -->
 
     <item>
+      <itunes:season>1</itunes:season>
       <itunes:episode>19</itunes:episode>
       <title>나의 번아웃 해방일지</title>
       <description>
@@ -811,6 +830,7 @@ K-직장인 최대고민! #오늘점심뭐먹지
 <!-- EP.21  -->
 
     <item>
+      <itunes:season>1</itunes:season>
       <itunes:episode>21</itunes:episode>
       <title>내 운명은 내가 정해</title>
       <description>
@@ -853,6 +873,7 @@ VS
     <!-- EP.22  -->
 
         <item>
+          <itunes:season>1</itunes:season>
           <itunes:episode>22</itunes:episode>
           <title>직장에서 살아남기</title>
           <description>
@@ -895,6 +916,7 @@ VS
         <!-- EP.23  -->
 
             <item>
+              <itunes:season>1</itunes:season>
               <itunes:episode>23</itunes:episode>
               <title>이게 도대체 ‘모순’ 일이야</title>
               <description>
@@ -937,6 +959,7 @@ VS
             <!-- EP.24  -->
 
                 <item>
+                  <itunes:season>1</itunes:season>
                   <itunes:episode>24</itunes:episode>
                   <title>당근과 채찍? 지금 내게 필요한 건</title>
                   <itunes:image href="https://cdn.music-flo.com/image/episode/839/121/00/00/0000121839_62c4f0f2_o.jpg"/>
@@ -994,6 +1017,7 @@ VS
                 <!-- EP.25  -->
 
                     <item>
+                      <itunes:season>1</itunes:season>
                       <itunes:episode>25</itunes:episode>
                       <title>급커브주의! 삶의 모퉁이를 마주쳤을 때 (W. 막내선장 아이키)</title>
                       <itunes:image href="https://cdn.music-flo.com/image/episode/117/122/00/00/0000122117_62ce28a0_o.jpg"/>
@@ -1045,6 +1069,7 @@ VS
                     <!-- EP.26  -->
 
                         <item>
+                          <itunes:season>1</itunes:season>
                           <itunes:episode>26</itunes:episode>
                           <title>여행을 떠나요🧳</title>
                           <itunes:image href="https://cdn.music-flo.com/image/episode/394/122/00/00/0000122394_62d7bdab_o.jpg"/>
@@ -1096,6 +1121,7 @@ Get Ready With Captains - 싱가폴 편!
                         <!-- EP.27  -->
 
                             <item>
+                              <itunes:season>1</itunes:season>
                               <itunes:episode>27</itunes:episode>
                               <title>무더위를 뽀개는 방법</title>
                               <itunes:image href="https://cdn.music-flo.com/image/episode/453/125/00/00/0000125453_62e09ce5_o.jpg"/>
@@ -1147,6 +1173,7 @@ Get Ready With Captains - 싱가폴 편!
                             <!-- EP.28  -->
 
                                 <item>
+                                  <itunes:season>1</itunes:season>
                                   <itunes:episode>28</itunes:episode>
                                   <title>온고지신</title>
                                   <itunes:image href="https://cdn.music-flo.com/image/episode/412/126/00/00/0000126412_62e9da95_o.jpg"/>
@@ -1188,5 +1215,48 @@ Get Ready With Captains - 싱가폴 편!
                                   <itunes:duration>49:45</itunes:duration>
                                   <itunes:explicit>false</itunes:explicit>
                                 </item>
+<!-- S2 EP.01 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>1</itunes:episode>
+  <title>항해는 계속 된다 (ft.찐가족의 축하파티)</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/175/127/00/00/0000127175_62f3209e_o.jpg"/>
+  <description>
+    🧑🏻‍🚀선원들,한 번 더 날아오를 준비 됐나요? 🚀
+
+    선원즈 &amp; 캡틴즈 &amp;제작진 모두가
+    간절히 염원하던 시즌 2 !!!
+    ❤️‍🔥공백 한 점 없이 돌아왔다❤️‍🔥
+
+    이제 바다를 넘어 우주 대항해 시대!🪐
+    캡틴즈와 함께 우주를 누빌 대망의 첫 게스트는?!
+    (Ft. 캡모 애청자)
+
+    매일 같이 함께하는 찐가족 케미가 넘치는
+    🥳 시즌 2 축하파티! 였는데요..? 🫢
+
+    👊🏻승부욕과 토론에 진심인 캡모🧐
+    시작부터 불꽃튀는 시즌 2 첫 항해!
+    💥지금 바로 확인하세요!
+
+    🫥 중력은 ZERO
+    즐거움은 MAX 🥰
+
+    🌌 은하수 폭포 같은 TMI와
+    별(빛)나는 솔루션 토크쇼🌟 
+    캡 / 틴 / 모 / 립 / 2
+
+    💌 우주 항해 위드 모립~?🌹
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E01.mp3"
+    length="75372294"
+    type="audio/mpeg"
+    />
+  <guid>cml20220810</guid>
+  <pubDate>Wed, 10 Aug 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>01:17:20</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
