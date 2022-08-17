@@ -1258,5 +1258,25 @@ Get Ready With Captains - 싱가폴 편!
   <itunes:duration>01:17:20</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.02 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>2</itunes:episode>
+  <title>프러포즈를 부탁해🌹</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/444/127/00/00/0000127444_62f5d37e_o.jpg"/>
+  <description>
+
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E02.mp3"
+    length="39773870"
+    type="audio/mpeg"
+    />
+  <guid>cml20220817</guid>
+  <pubDate>Wed, 17 Aug 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>40:18</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
