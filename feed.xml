@@ -1345,5 +1345,50 @@ OOO OO?
   <itunes:duration>53:17</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.04 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>4</itunes:episode>
+  <title>우리가 연예인은 아니잖아 (W. 콩고王자 조나단)</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/712/129/00/00/0000129712_630ec4b9_o.jpg"/>
+  <description>
+    🚀모립호 최초, 대한외국인 캡틴 등장!
+인간극장에서 맥도날드 광고모델까지,
+🌟본투비 셀럽(?) 콩고 王자 조나단과 함께하는
+알쏭달쏭 정체성 찾기 모험🤔⁉️
+
+#인성논란은 억울해요
+아이들 싸움이 어른 싸움으로?!🫢
+📮억울한 키카 사장님의 사연 도착🥲
+내로라하는 프랜차이즈 알바생 출신!
+순이 X 익화 X 나단이가 말하는
+🆕‘손님은 왕이다’의 새로운 정의는?🆕
+
+#우리가_셀럽이_되어보니
+어느 날 어느 새 셀럽이 되어버렸다?
+“그래서.. 저는 누구일까요?”😇
+댄서 VS 방송인 VS 연예인
+VS 유튜버 VS 웃수저?!
+
+멀고도 험한 셀럽의 길을 걷게 된
+셀럽 새내기(?)들의 공감대잔치 토크💬
+🥹 캡틴즈를 가장 힘들게 하는
+&amp; 가장 힘나게 하는 말은?💖
+
+😇예상치 못한 찐케미👊🏻
+수줍지만 행복한 나단이와 누나즈의
+👽허심탄회 힐링타임에 여러분을 초대합니다🪐✨
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E04.mp3"
+    length="59413423"
+    type="audio/mpeg"
+    />
+  <guid>cml20220831</guid>
+  <pubDate>Wed, 31 Aug 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>01:00:44</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
