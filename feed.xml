@@ -1390,5 +1390,55 @@ VS 유튜버 VS 웃수저?!
   <itunes:duration>01:00:44</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.05 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>5</itunes:episode>
+  <title>[추석특집] 모립호는 사랑을 싣고 </title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/794/130/00/00/0000130794_6317ff6d_o.jpg"/>
+  <description>
+    🌕달아 달아~ 밝은 달아~🍁
+모립호 추억 들려주는 달아~!
+
+🎑모립호 추석특집 - 🫧추억은 방울방울🫧
+
+#그 땐 미처 알지 못했지 👵🏻👨🏻‍🦳
+어렸을 땐 이해되지 않았던 가족들의 사랑,
+이제는 그 따뜻함이 문득 그립다🥹
+그런데,,, 아직도 집에서 OO로 불리는 립캡?👼🏻
+
+세상 멋찐 캡틴즈의
+🍼반전 꼬꼬마 시절은 어땠을까?!
+누구보다 유니크하고 사랑스러웠던
+❤️‍🔥중고딩 모립썰 대방출❤️‍🔥
+
+#캡틴즈의 타임캡슐🕰
+
+📫추석맞이 추억보관소 OPEN💌
+갑자기 분위기 이별편지..?
+💫가을 감수성 두 스푼 더한 캡틴즈의 추억여행으로
+여러분을 초대합니다🚀
+
+💝모립호도 언제나 한가위만 같아라💝
+오늘도 우애 깊은 자매즈!
+제주도에서의 요가를 목놓아 외치게 된 이유는?🧘🏻🧘🏻‍♀️
+캡틴즈의 101% 갓생사는 추석 계획
+&amp; 추석맞이 특급 이벤트!
+(아기다리고기다리던…! 📸🎞)
+
+🍪: 엇 누구시죠?
+제 눈엔 빛 밖에 안 보이는데..✨✨
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E05.mp3"
+    length="56020728"
+    type="audio/mpeg"
+    />
+  <guid>cml20220907</guid>
+  <pubDate>Wed, 7 Sep 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>57:10</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
