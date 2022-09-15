@@ -1395,7 +1395,7 @@ VS 유튜버 VS 웃수저?!
 <item>
   <itunes:season>2</itunes:season>
   <itunes:episode>5</itunes:episode>
-  <title>[추석특집] 모립호는 사랑을 싣고 </title>
+  <title>[추석특집] 모립호는 사랑을 싣고</title>
   <itunes:image href="https://cdn.music-flo.com/image/episode/794/130/00/00/0000130794_6317ff6d_o.jpg"/>
   <description>
     🌕달아 달아~ 밝은 달아~🍁
@@ -1438,6 +1438,49 @@ VS 유튜버 VS 웃수저?!
   <guid>cml20220907</guid>
   <pubDate>Wed, 7 Sep 2022 03:00:00 GMT</pubDate>
   <itunes:duration>57:10</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
+
+<!-- S2 EP.06 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>6</itunes:episode>
+  <title></title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/261/131/00/00/0000131261_63214164_o.jpg"/>
+  <description>
+    🔋연휴 때 풀충전한 소중한 에너지, 어딜 뺏겨 😤
+캡틴즈와 함께하는 ’에너지 뱀파이어’ 퇴치 작전!
+
+#  내 후임은 애교쟁이🥰
+지나치게 발랄한 후임이 부담스러워요🥲
+일만 잘하면 상관없다 vs 어른스럽지 못한 태도다?
+
+적재적소에 애교를 쫀~득하게 활용하는 법!
+💕캡틴즈의 애교학개론 수업 OPEN🫰
+
+# 질투는 나의 힘? 😈
+
+건강한 경쟁과 선후배간 훈훈한 배려...★
+… 는 드라마 속에서만 가능한 거 아닌가요?🤷🏻
+경쟁 사회 속 어쩔 수 없는 불안과 질투,
+잘 이겨내고 싶은 선원들 여기여기 붙어라👀💦
+
+캡틴즈는 서로를 질투한 적이 😒있다 VS 없다😇
+→ 20대 순이의 엉뚱한 질투 목록은?
+→ 익화언니의 질투FREE로 살아가는 법!
+
+💡오늘따라 더욱 유쾌상쾌명쾌한
+캡틴즈의 솔루션이 궁금하다면?!
+지금 바로 모립호에 승선하세요🚀
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E06.mp3"
+    length="38949860"
+    type="audio/mpeg"
+    />
+  <guid>cml20220914</guid>
+  <pubDate>Wed, 14 Sep 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>39:27</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
   </channel>
