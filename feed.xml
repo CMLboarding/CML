@@ -1483,5 +1483,52 @@ VS 유튜버 VS 웃수저?!
   <itunes:duration>39:27</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.07 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>7</itunes:episode>
+  <title>열등감? 부셔줄게 (W.금쪽 리정)</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/780/131/00/00/0000131780_632a72a1_o.jpg"/>
+  <description>
+    🐯아기호랑이 기다리던 모립호 대원들 소리질뤄🙌🏻
+아기다리고기다리던 '금쪽' 게스트 !!!!!
+😘 캡.틴.리.정 등장이요🥰
+
+#스우파는 중박칠 거다?
+모립호의 유서깊은(?) 사주 썰,
+그 마지막 퍼즐 조각 🧩
+시즌 1부터 고대해 온 리정의 반전 증언!
+“스우파, 크게 얻는 건 없을 거라고 했다” ?!
+
+👩‍👩‍👧 명예모녀지간 모립정 FAQ,
+캡모 탐정사무소에서 탈탈 털어봅니다🕵🏻
+
+#지독한 열등감, 탈출하고 싶어요😣
+뿌리깊은 열등감, 계속되는 비교와 경쟁⚡️
+이대로 괜찮을까요?
+😎리정이라 쓰고 자존감이라 읽는다!
+마미즈를 똑 닮은 캡틴 리정에게 ‘열등감’이란?
+
+#내 심장의 색깔은 L.O.V.E❤️‍🔥
+3인3색 캡틴즈의 사랑방정식 전격해부!🤓
+그 때 그 시절 힐링토크 바이브부터
+K-댄스 씹어먹는 천재댄서 모먼트까지!
+모립정 찐케미 말해모해🤫
+
+ 벗어날 수 없는 열등감에 갇혔다면?
+지금 당장 모립정표 칭찬감옥 수감이요💋
+ 👮🏻자수할 대원들 지금 바로 컴온🚔
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E07.mp3"
+    length="52132051"
+    type="audio/mpeg"
+    />
+  <guid>cml20220921</guid>
+  <pubDate>Wed, 21 Sep 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>53:03</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
