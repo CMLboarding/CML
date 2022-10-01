@@ -1530,5 +1530,51 @@ K-댄스 씹어먹는 천재댄서 모먼트까지!
   <itunes:duration>53:03</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.08 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>8</itunes:episode>
+  <title>실패가 아냐, 멈춘 적 없으니까 (W. 0포 리정)</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/203/132/00/00/0000132203_6333b0c1_o.jpg"/>
+  <description>
+    ❤️‍🔥캡틴리정의 자존감 클래스 2부❤️‍🔥
+금쪽 같은 자존감에 스크래치가 났을 때?!
+반복되는 실패 앞에 번번히 무너지는 대원들의 유리멘탈,
+모립쩡이 싹- 다잡아 줄게😎
+♪ 천천히 널 일깨울 (모립호) FIRE 🚀
+
+🤔 모립쩡의 후회 극복 스타일 진단 🩺
+잊는다 VS 웃는다 VS 처리한다 ?!
+
+🎪 쩡이의 상상극장 OPEN 🎬
+천재댄서로 탑클 찍은 모립쩡!
+어느 날 갑자기 춤이 아닌
+전혀 다른 일을 하게 될 기회가 생겼다면?🧐
+
+#새로운 두전이 너무 두려워요🫣
+✅모캡만의 ((초심플)) 체크리스트!
+🐯쩡캡의 ((초간단)) 순간세뇌법!
+🤗립캡의 ((한결같은)) _____?
+
+#실패 앞에서 무기력해요😞
+긍정회로 돌릴 힘도 없다! 무기력과 패배감이
+개근도장 찍고 있는 선원들이라면🥲
+
+🧑🏻‍⚕️: 캡모 N회차 처방해드렸어요^^ 💊
+자존감 닥터 모립쩡만의
+짧굵 &amp; 단짠 토크 처방전!
+🥰 지금 바로 받아가실게요 💉
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E08.mp3"
+    length="28403659"
+    type="audio/mpeg"
+    />
+  <guid>cml20220928</guid>
+  <pubDate>Wed, 28 Sep 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>28:26</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
