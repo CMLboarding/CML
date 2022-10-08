@@ -1576,5 +1576,57 @@ K-댄스 씹어먹는 천재댄서 모먼트까지!
   <itunes:duration>28:26</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.09 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>9</itunes:episode>
+  <title>가을의 꽃 페스티벌, 제대로 즐기려면? (W. LAS)</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/619/132/00/00/0000132619_633ce61a_o.jpg"/>
+  <description>
+    갓생의 아이콘 모캡, 사실 페스티벌은 초짜?!
+캡틴즈가 많~이 아끼는 능력자 동생즈!
+뮤직페스티벌 장인 LAS와 함께하는
+🎆페스티벌 완.전.정.복 특집😎
+
+🙌🏻 귀로만 들어도 들썩들썩!
+씬나게 즐길 준비된 모립호 대원들
+모두 소리~질~~뤄↗️↗️↗️
+
+#페스티벌 초짜의 S.O.S🚨
+축제, 일단 가기만 하면 된다? NO!
+페스티벌 즐기기 초급/중급/고급반 속성강의!
+숨은 페스티벌 장인은 사실 순이였다?!
+간만의 립제이 본캐 등판💋
+&amp; 얼굴은 숨겨도 춤선은 못 숨기는 모떤여자🔥
+
+🤧캡틴즈… 오늘 캡모에서 술냄새 나요..🔞🍻
+
+#아싸탈출 넘버원
+지금은 무대를 뒤집어놓는 캡틴즈&amp;라스,
+하지만 과연 처음부터 잘 놀았을까~요?!😜
+알싸~한 첫 페스티벌의 기억!
+묵혀뒀던 모든 추억 대방출과 함께
+🌟특급 할로윈 공약까지🎃
+
+🍯모립호 꿀팁단지 - 이것만 콕!🐝
+자칭 프롬 프린스🌹슬레이가 알려주는
+필승의 아싸 탈출법?
+
+선원아, 넌 즐길 때 가장 빛나😉✨
+기쁘게 즐기는 그 자체가 빛나는 당신!
+페스티벌에서 제대로 빛나고 싶다면?
+지금 당장 승선하세요🚀
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E09.mp3"
+    length="60217906"
+    type="audio/mpeg"
+    />
+  <guid>cml20221005</guid>
+  <pubDate>Wed, 05 Oct 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>01:01:32</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
