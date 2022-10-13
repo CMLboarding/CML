@@ -1628,5 +1628,34 @@ K-댄스 씹어먹는 천재댄서 모먼트까지!
   <itunes:duration>01:01:32</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.10 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>10</itunes:episode>
+  <title>모니카를 이겨라! 모립호의 50가지 목소리 (W. KBS 이지선 성우)</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/989/132/00/00/0000132989_6346283f_o.jpg"/>
+  <description>
+    목소리 하나로 대가족 이루기 가능? 완전 가능~🙆🏻
+👩🏻‍🏫KBS 이지선 성우와 함께하는
+🎙캡틴즈 슈퍼 DJ 만들기 원데이 클래스! 🌟
+
+캡틴즈는 일일 성우 데뷔에 성공할 수 있을까요?!
+#모니카를 이겨라 - 잰말놀이
+#애교(?)의 비밀
+#온가족 성대모사
+
+지금 바로 시작합니다😎🚀
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E10.mp3"
+    length="56888720"
+    type="audio/mpeg"
+    />
+  <guid>cml20221012</guid>
+  <pubDate>Wed, 12 Oct 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>58:08</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
