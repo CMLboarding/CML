@@ -1657,5 +1657,46 @@ K-댄스 씹어먹는 천재댄서 모먼트까지!
   <itunes:duration>58:08</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.11 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>11</itunes:episode>
+  <title>소비생활을 부탁해💸</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/412/133/00/00/0000133412_634f5cfe_o.jpg"/>
+  <description>
+    🍳프로덕질러💖의 찐사연 + 1원 단위 가계부 도착!!
+연극, 뮤지컬, 스포츠, 모립까지 하나도 놓칠 수 없다면?!
+오늘은 당신이 바로 모립호의 지혜로운 소.비.요.정😇
+
+#캡틴즈도 덕후의 민족이었어
+-문화인(?) 그 자체 립캡이 유일하게 인정한 자신의 ‘덕질’은?
+-덕후가의 둘째라면 서럽다🤘🏻 모캡의 최애툰&amp;영화 싸이퍼 가보자고🎤
+
+@모립통신_official
+모립호 사상 최초! 사연자와의 전.화.연.결 달성🛰
+캡틴즈의 심금을 말랑하게 울려버린
+‘수학대원’의 시크한 한 마디는?
+
+#모립의 슬기로운(?) 소비생활
+이번엔 캡틴즈의 영수증을 샅샅히 파헤칠 차례🧐
+모캡 VS 립캡,진정한 소비요정은?
+반전의 연속 가운데 난무하는 TMI쇼쇼쇼!
+
+🤡 YOLO는 막막하고🤔
+🏦 영끌은 숨막혀요😣
+아슬아슬 애매한 소비생활 줄타기,
+솔직담백 캡틴즈와 함께 제대로 즐겨보자구요🚀
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E11.mp3"
+    length="54584613"
+    type="audio/mpeg"
+    />
+  <guid>cml20221019</guid>
+  <pubDate>Wed, 19 Oct 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>55:36</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
