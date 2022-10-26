@@ -1698,5 +1698,45 @@ K-댄스 씹어먹는 천재댄서 모먼트까지!
   <itunes:duration>55:36</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.12 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>12</itunes:episode>
+  <title>지나친 사랑, 해독제가 필요할 때 🏥</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/824/133/00/00/0000133824_63589ecf_o.jpg"/>
+  <description>
+    💘’지금 사랑하지 않는 자, 유죄’라는데..
+만약, 지나친 사랑의 독이 나를 침투해온다면?! ☠️
+
+🦸🏻우리 딸 반찬은 무조건 엄마가 책임진다💪🏻
+사랑의 반찬을 실은 폭주기관차!
+반찬계의 빌런이 되어가는 엄마를 멈춰주세요 🦹‍♀️
+
+-순이맘이 보내던 ‘비싼’ 반찬통의 비밀?
+-모녀반찬공장 개업?! (ft. 카메맘의 숨겨진 두 딸)
+
+&lt;반찬통은 사랑을 싣고&gt;
+2022 ver.으로 최신 업데이트 해보자고🤩
+
+❤️‍🔥외향형 남친 VS  내향형 여친💙
+우리 계속 사랑할 수 있을까…?
+🌹캡틴즈의 연륜이 고스란히 담긴
+실전 데이트 컨설팅까지😎
+
+사랑이냐 부담이냐, 그것이 문제로다..🤔
+👩🏻‍🏫 모립호피셜 사랑학개론 스페셜 클래스✨
+지금 바로 출발합니다🚀
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E12.mp3"
+    length="55528084"
+    type="audio/mpeg"
+    />
+  <guid>cml20221026</guid>
+  <pubDate>Wed, 26 Oct 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>56:41</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
