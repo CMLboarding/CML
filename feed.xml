@@ -1787,5 +1787,50 @@ K-댄스 씹어먹는 천재댄서 모먼트까지!
   <itunes:duration>42:26</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.14 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>14</itunes:episode>
+  <title>나는 왜 이렇게 겁이 많을까? (W. MZ계 오은영)</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/645/134/00/00/0000134645_636e107d_o.jpeg?1668157565934/dims/resize/{size}/quality/90"/>
+  <description>
+    언제나 자신감 넘쳐보이는 캡틴즈,
+사실은 겁쟁이 1,2호였다?!👀💦
+
+🎨드로잉 토크 - 처음 뵙겠습니다
+모니카 X 이연 X 립제이
+드로잉 콜라보 성사🥳
+오늘 처음 본 서로의 얼굴을 그린다면?
+
+🧑🏻‍🎨실력파 이연  / 👼🏻순수파 립제이
+/ 🕵🏻탐정파 모니카?!
+
+각자의 싸인에 숨겨진 비하인드 스토리?!
+
+😵‍💫실전 울렁증, 전 앞으로 어떡하죠?
+어릴 땐 빛났던 재능,
+현실은 엉킨 실타래처럼 복잡한 머릿속! 🧶
+내 안에 꽁꽁 숨은 창의력,
+진짜 비장의 ‘무기’로 만들어내는 방법은?
+
+“한 사람도 ‘이상’하지 않은 사람은 없더라구요.”
+
+나만의 특별한 오리지널리티를 찾아,
+마음 속 자욱한 우주먼지를 헤치고 떠나는 항해!
+
+💓이연X모립표 무중력 힐링토크쇼😌🌌
+지금 바로 출발합니다🌟
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E14.mp3"
+    length="64974063"
+    type="audio/mpeg"
+    />
+  <guid>cml20221109</guid>
+  <pubDate>Wed, 9 Nov 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>01:06:39</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
