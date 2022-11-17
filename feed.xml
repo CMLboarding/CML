@@ -1832,5 +1832,48 @@ K-댄스 씹어먹는 천재댄서 모먼트까지!
   <itunes:duration>01:06:39</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.15 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>15</itunes:episode>
+  <title>돈 없는 사람 VS 꿈 없는 사람 (W.이연)</title>
+  <itunes:image href="https://cdn.music-flo.com/image/episode/041/135/00/00/0000135041_63745152_o.jpeg"/>
+  <description>
+    ‘꿈’이란 무엇인가 - 퇴사하기 전에 알아야하는 것들
+
+인생 101% 모니카, 진짜 꿈은 안주하는 삶?!
+낭만주의 립제이, 사실 꿈보단 돈이다?!
+
+캡틴즈 X 이연 2부! 
+오늘은 ‘꿈’에 대해
+낱낱이 파헤쳐보겠습니다🕵🏻
+
+#늦었다고_생각할 때가_진짜_늦었다?
+원테이블 레스토랑의 셰프를 꿈꿨던 나!🧑🏻‍🍳
+하지만 현실은 월급쟁이 직장인🥲
+퇴사 마려운 매일매일, 계속 견뎌야 할까요?
+- 소문이 자자한 모니카 퇴사썰 ★총정리 편★
+- 누구보다 깔끔하게 퇴사한 이연, 5평 방에서 소리지른 이유는?
+
+
+꿈꾸는 어른이들을 위한
+캡틴즈 X 이연의 진심어린 조언!
+은하수만큼 반짝이고🌌
+노을만큼 포근한🌅
+🌊힐링의 바다 속으로 풍덩~🤿
+
+지금 바로 승선하세요🧑🏻‍🚀✨
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E15.mp3"
+    length="61817398"
+    type="audio/mpeg"
+    />
+  <guid>cml20221116</guid>
+  <pubDate>Wed, 16 Nov 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>01:04:24</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
