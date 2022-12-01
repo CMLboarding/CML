@@ -1918,5 +1918,50 @@ K-댄스 씹어먹는 천재댄서 모먼트까지!
   <itunes:duration>01:23:52</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.17 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>17</itunes:episode>
+  <title>삐빅, MZ포비아입니다</title>
+  <description>
+    “너희, 회식 싫어하는 거 아니었어…?😳”
+젋.꼰 될까 무서운 대원들 여기 여기 붙어라👍🏻
+
+🗣미디어를 통해 쏟아지는
+수많은 ‘MZ’ 카더라 통신!👀💦
+진짜 진실은 어디에?!🎭
+
+모립호로 도착한 MZ 대원의 긴급사연🚨
+캡틴즈와 함께 ‘진짜’ MZ의 얼굴을 찾아보자!🧐✨
+
+#프라우드먼 회식썰
+누구보다 수평적인 프라우드먼 문화!
+하지만 회식 때는 확실한 테이블 구분?!
+🛞베스트 드라이버 케이데이,
+립제이에게 다가와 던진 말은?  
+
+#SNS 속 MZ, 도대체 누구죠..?🥲
+모니카가 이해한 MZ 원뜻은?! 🦄
+솔직 당당하게 갓생사는 MZ
+vs 현생사는 평범한 MZ 직장러🫣
+ 내 거친 편견과~ 불안한 MZ와~
+그걸 지켜보는 캡틴즈~
+
+우리,, 서로 공감할 수 있을까요,,?★
+
+본격 세대통합 토크쇼,
+대신~모립! 지금 바로 출발합니다🚀
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E17.mp3"
+    length="29592607"
+    type="audio/mpeg"
+    />
+  <guid>cml20221130</guid>
+  <pubDate>Wed, 30 Nov 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>29:34</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
