@@ -1963,5 +1963,42 @@ vs 현생사는 평범한 MZ 직장러🫣
   <itunes:duration>29:34</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.18 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>18</itunes:episode>
+  <title>최고의 수비, 최선의 공격</title>
+  <description>
+    “너만 아니었으면..”
+엄마로부터 듣는 폭언,
+언제까지 참아야 할까요?🫥
+
+가장 안전해야하는 가족의 울타리 안에서,
+이해할 수 없는 공격이 쏟아지는 블랙홀 같은 하루하루.
+‘탈출’을 꿈꾸는 대원을 위한 캡틴즈의 솔루션은?
+
+#모엄엄모
+모니카는 엄마를 닮았고 엄마는 모니카를 닮았다!
+나와 똑 닮은 엄마의 버럭(!) 모먼트😡
+모캡은 어떻게 대처했을까?🤔
+립캡의 한결같은 따뜻한 위로까지 ☕️
+
+엄마도 딸도, 사랑은 배우는거야💗
+상처는 튕겨내고 사랑은 차곡차곡 쌓아가는 항해!
+캡틴모립과 함께해요 🚀
+
+++ 🍪 오늘 에피 쿠키 있음 🍪++
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E18.mp3"
+    length="22347244"
+    type="audio/mpeg"
+    />
+  <guid>cml20221207</guid>
+  <pubDate>Wed, 07 Dec 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>22:07</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
