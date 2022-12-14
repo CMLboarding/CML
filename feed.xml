@@ -2077,5 +2077,50 @@ vs 현생사는 평범한 MZ 직장러🫣
   <itunes:duration>35:09</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.21 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>21</itunes:episode>
+  <title>미숙한 당신이 미래를 바꾸는 법</title>
+  <description>
+    🚶🏻혹시 나 지금… 제자리걸음 중?🥲
+한 해를 돌아보며, 더욱 성장하지 못한 내 모습에
+마음이 천근만근이라면? 모두 모립호로 집합🤓!
+❤️‍🔥캡틴즈와 함께 극~뽁~🙌🏻해봅시다!
+
+#나는_왜이렇게_부족할까
+#정신차려이각박한세상속에서?
+
+🐣 캡틴즈 미숙-토리 🐣
+🌪모립의 우당탕탕 학원 도전기💨
+립캡의 첫 미션은?! (Feat. 맑은 눈의..👀✨)
+
+-  [★극F★ 효원 ] 님이
+[비즈니스] 스킬을 습득하셨습니다 -
+
+🐥 캡틴즈 변수-토리 🐥
+? : 비행기 놓치는 것 정도야 뭐~^^
+공항 찍고 돌아온 모립의 눈을 사로잡은 것은?
+
+-  [★극J★ 정우 ] 님이
+[한복체험 드루와] 스킬을 시전하셨습니다 -
+
+오늘의 성장드라마 절망편?
+내일의 희망 편 대차게 기대해😎
+
+슈퍼자존감 항해 초긍정 편!
+지금 바로 시작합니다🚀
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E21.mp3"
+    length="31898503"
+    type="audio/mpeg"
+    />
+  <guid>cml20221214</guid>
+  <pubDate>Wed, 14 Dec 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>31:59</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
