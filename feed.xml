@@ -2122,5 +2122,46 @@ vs 현생사는 평범한 MZ 직장러🫣
   <itunes:duration>31:59</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.22 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>22</itunes:episode>
+  <title>당신의 열정이 허무한 이유</title>
+  <description>
+    🐎 열심히 달려온 당신, 잘 쉴 수 있나요?😴
+누구보다 열정적으로 살다가
+번아웃과 폭식증으로 위기가 닥친 선원의
+긴급 사연 도착🚨도와줘요 캡틴즈!
+
+👊🏻매너리즘 박살내기👊🏻
+좋아하는 일이 직업이면 무조~건 행복하다?🙅🏻
+매일의 지루함을 이겨내고 오늘을 마주하기까지!
+캡틴즈의 보어아웃(Bore-out) 타파하기,
+일타특강 들어갑니다🤓
+
+++ Bonus. 프먼 멤버들의 갓기썰
+
+👊🏻다이어트 박살내기👊🏻
+모캡도…다이어트 N수생이었어..!😮(수군수군)
+온갖 다이어트를 섭렵한 다이어트니카,
+결국 명불허전 클래식, 식단&amp;운동으로 돌아온
+결정적인 이유는?! (ft.뚝심 효원)
+
+한 해 끝, 나의 한계에 부딪힌 것 같아
+왠지 모르게 허무하다면🫥
+한 걸음조차 더 내딛기 버겁다면🥲
+지금 바로 승선하세요🚀
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E22.mp3"
+    length="35746181"
+    type="audio/mpeg"
+    />
+  <guid>cml20221216</guid>
+  <pubDate>Wed, 16 Dec 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>36:05</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
