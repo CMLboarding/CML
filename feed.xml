@@ -2261,5 +2261,92 @@ D*MN! 제이팍이 깜짝 놀란 이유는?
   <itunes:duration>29:30</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
 </item>
+
+<!-- S2 EP.25 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>25</itunes:episode>
+  <title>새해가 두려운 당신에게</title>
+  <description>
+    2023 D-4! 하지만 기대보다는
+두려움/무력함/불안함이 앞선다면..?😟💭
+
+🌟캡틴즈와 함께하는 연말특집 1탄🌟
+&lt;&lt; THE DREAM MUST GO ON &gt;&gt;
+
+♪ 꿈을 잃었다.. 어딜 가야 할까..🥲
+👩🏻‍💻해커의 길에 매료된 19살 영재선원!✨
+잘 나가다 급브레이크 밟은 이유는?💥
+(ft. 역대급 전화연결 ㄴㅇㄱ)
+
+🧙🏻캡모 1년이면 솔루션을 읊는다
+선원이 묻고 선원이 답했다,
+사상 최초 사연으로 사연 해결?!
+아니 이게 된다고..?😳
+
+창의력대장 X 멘탈대장 캡틴즈는
+오늘도 여전히 꿈꾼다!
+🌊 네버엔딩 꿈스토리가
+휘몰아치는 오늘의 항해🏄🏻 
+
+끝까지 함께 하실거죠~? 👀💖
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E25.mp3"
+    length="59104709"
+    type="audio/mpeg"
+    />
+  <guid>cml20221228</guid>
+  <pubDate>Wed, 28 Dec 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>01:00:19</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
+
+<!-- S2 EP.26 -->
+<item>
+  <itunes:season>2</itunes:season>
+  <itunes:episode>26</itunes:episode>
+  <title>모든 날들의 진심을 담아</title>
+  <description>
+    😎오래 기다리셨습니다💫
+모립호 연말특집 대망의 하이라이트!
+&lt;&lt; 2022 CAPTAIN MOLIP AWARDS &gt;&gt;
+
+|  PART 1  |  베스트 에피소드
+우리들을 웃고 울렸던 모립호의 수많은 항해!
+베스트 of 베스트 스토리들,
+선원들아 ㄱ하니..?
+
+|  PART 2  |  베스트 웃수저
+🌊세상에 없던 TMI 폭포수 캡틴모립🌊
+캡틴즈의 본투비 웃수저 모먼트!
+(왜 다시 들어도 웃긴건데요ㅠ)
+※주의※ 캡모 정주행 욕구가 치솟을 수 있음
+
+|  PART 3  |  베스트 케미
+모립호에 찾아왔던 일일캡틴즈,
+한 명도 빼놓을 수 없죠👏🏻👏🏻
+하지만 최고의 영예를 차지한
+그 분들의 정체는..?🌟
+
+__
+
+
+🥳 캡틴모립 1주년 💖
+웃으며, 잠시만 안녕 -
+
+[Special Track]
+캡틴들이 전하는 2022 마지막 편지
+  </description>
+  <enclosure
+    url="https://prowdfrypan.github.io/CML/audio/S02E26.mp3"
+    length="48174195"
+    type="audio/mpeg"
+    />
+  <guid>cml20221230</guid>
+  <pubDate>Wed, 30 Dec 2022 03:00:00 GMT</pubDate>
+  <itunes:duration>49:01</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+</item>
   </channel>
 </rss>
